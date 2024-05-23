@@ -55,7 +55,7 @@ The project is deployed using AWS to ensure scalability and reliability. The fol
 ![Setting an Alarm](path/to/setting-alarm.jpg)
 *Description of Setting an Alarm*
 
-![Alarm Notification](path/to/alarm-notification.jpg)
+![Alarm Notification](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.54_c05ea044.jpg)
 *Description of Alarm Notification*
 
 
@@ -63,6 +63,6 @@ The project is deployed using AWS to ensure scalability and reliability. The fol
 
 ## Contact
 
-Your Name - [](ambikamadan2701@gmail.com.com)
+Your Name - [Ambika Madan](ambikamadan2701@gmail.com.com)
 
 Project Link: [https://github.com/Ambika-Madan/geoclock](https://github.com/Ambika-Madan/geoclock)
