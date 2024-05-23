@@ -52,7 +52,7 @@ The project is deployed using AWS to ensure scalability and reliability. The fol
 ![Home Screen](path/to/home-screen.jpg)
 *Description of Home Screen*
 
-![Setting an Alarm]([path/to/setting-alarm.jpg](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.56_2a65f604.jpg))
+![Setting an Alarm]((https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.56_2a65f604.jpg))
 *Description of Setting an Alarm*
 
 ![Alarm Notification](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.54_c05ea044.jpg)
