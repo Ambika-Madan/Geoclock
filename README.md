@@ -54,7 +54,7 @@ The project is deployed using AWS to ensure scalability and reliability. The fol
 
 ![Setting an Alarm in Time Based Alarm](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.56_2a65f604.jpg)
 *Description of Setting an Alarm*
-![Setting Aarm in Location Based](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.57_6a65dee7.jpg)
+![Setting Aarm in Location Based](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.57_19248ea9.jpg)
 ![Alarm Notification in Location Based Alarm](https://github.com/Ambika-Madan/Geoclock/blob/main/WhatsApp%20Image%202023-11-03%20at%2014.09.54_c05ea044.jpg)
 *Description of Alarm Notification*
 
